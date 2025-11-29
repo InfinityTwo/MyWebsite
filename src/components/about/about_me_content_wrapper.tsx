@@ -95,13 +95,15 @@ function AboutMeContentWrappers(
                 text="National University of Singapore (NUS)"
                 className="bolded"
               />{" "}
-              - Year 2, Semester 1 currently
+              - Year 3, Semester 1 currently (as of Nov 2025)
               <BreakLine count="1" />
-              Bachelor of Computing in Computer Science - Current GPA: 4.79
+              Bachelor of Computing in Computer Science - Current GPA: 4.69
               <BreakLine count="1" />
-              A: CS1101S (TA as well in Y2S1), CS2030S, CS2040S, IS1108
+              A+: CS3281
               <BreakLine count="1" />
-              A-: CS1231S, MA1522, GEA1000N
+              A: CS1101S (TA as well in Y2S1), CS2030S, CS2040S, IS1108, CS2101, CS2102, CS2103T, ST2334
+              <BreakLine count="1" />
+              A-: CS1231S, MA1522, GEA1000N, CS2100
               <BreakLine count="1" />
               Notable Mod(s): CP3108B (Source Academy)
               <BreakLine count="2" />
@@ -155,7 +157,10 @@ function AboutMeContentWrappers(
               <OrangeSpan text=" JavaScript, TypeScript, HTML/CSS, Python, SASS, Java, SQL, NoSQL" />
               <BreakLine count="2" />
               <span className="bolded">Framework/Libraries</span> -
-              <OrangeSpan text=" NextJs, ReactJS, Redux, Saga, Tanstack, AG Grid, Tailwind, Prisma, Jest, jQuery, PyTorch, Django, Flask" />
+              <OrangeSpan text=" NextJS, ReactJS, Redux, Saga, Tanstack, AG Grid, Tailwind, Shadcn, Prisma, Jest, jQuery, PyTorch, Django, Flask" />
+              <BreakLine count="2" />
+              <span className="bolded">Other Programming</span> -
+              <OrangeSpan text=" Firebase, Vercel, Google T5, PostgreSQL, MySQL, Unity, AWS (EC2, ELC, RDS, SES, S3)" />
             </p>
 
             <BreakLine count="2" />
@@ -164,7 +169,7 @@ function AboutMeContentWrappers(
               <span className="footnotes"></span>
             </p>
             <p className="aboutMeTexts indented">
-              <OrangeSpan text=" Photoshop, Canva, Illustrator, Autodesk Maya, Sketch" />
+              <OrangeSpan text=" Photoshop, Canva, Illustrator, DaVinci Resolve, Autodesk Maya, Sketch" />
             </p>
 
             <BreakLine count="2" />
@@ -181,7 +186,7 @@ function AboutMeContentWrappers(
               (9.0 Flight Hours + 8.0 Simulator Hours, 2019),
               <BreakLine count="2" />
               <OrangeSpan text=" X-Plane 11" /> +{" "}
-              <OrangeSpan text="Microsoft Flight Simulator" /> (Around 3000
+              <OrangeSpan text="Microsoft Flight Simulator" /> (Around 4000
               Flight Hours from 2017 till now)
             </p>
 
